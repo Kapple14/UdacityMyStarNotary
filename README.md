@@ -1,6 +1,6 @@
 # Decentralized Star Notary Project
 ```bash
-node: 
+node: v10.13.0
 openzeppelin-solidity: ^2.3.0
 truffle-hdwallet-provider: ^1.0.17
 web3: ^1.7.3
